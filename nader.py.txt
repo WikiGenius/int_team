@@ -1,0 +1,3 @@
+git add
+git remote 
+git push
